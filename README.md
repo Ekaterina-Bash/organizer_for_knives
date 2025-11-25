@@ -1,4 +1,4 @@
-# organizer_for_knives
+# organizer_for_cutting_tools
 creating an organizer for keeping knives, scalpels and blades
 
 # Органайзер для канцелярских ножей, скальпелей, ножниц и лезвий.
